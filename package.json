@@ -1,0 +1,24 @@
+{
+  "name": "qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teeeb313/qa-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/teeeb313/qa-automation/issues"
+  },
+  "homepage": "https://github.com/teeeb313/qa-automation#readme",
+  "dependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
